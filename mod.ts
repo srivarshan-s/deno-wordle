@@ -17,7 +17,6 @@ while (true) {
 
 let winFlag = 0;
 
-// console.log(todaysWord);
 console.log("WORDLE\n\n");
 console.log("X -> letter is not present");
 console.log("0 -> letter is present and at the right position");
